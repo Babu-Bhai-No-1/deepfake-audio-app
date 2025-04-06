@@ -1,9 +1,11 @@
 streamlit==1.32.2
+numpy
+matplotlib
+librosa
+tensorflow==2.16.1
 google-generativeai==0.4.1
-tensorflow==2.15.0
-librosa==0.10.1
-matplotlib==3.7.5
-numpy==1.24.3
-soundfile==0.12.1
+Pillow
+
+
 
 
